@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#######################################
+# Structures (KEYWORD3)
+#######################################
+
+every	KEYWORD3
+everyb	KEYWORD3
+everyl	KEYWORD3
+everynow	KEYWORD3
+everynowb	KEYWORD3
+everynowl	KEYWORD3
+everyu	KEYWORD3
+everyul	KEYWORD3
+everynowu	KEYWORD3
+everynowul	KEYWORD3
+
+everySTF	KEYWORD3
+everyNTF	KEYWORD3
+
+
+######################################
+# Constants (LITERAL1)
+#######################################
+
+ET_DRIFT	ĹITERAL1
