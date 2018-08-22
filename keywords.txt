@@ -33,4 +33,4 @@ everyNTF	KEYWORD3
 # Constants (LITERAL1)
 #######################################
 
-ET_DRIFT	ĹITERAL1
+ET_DRIFT	LITERAL1
